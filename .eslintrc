@@ -1,0 +1,15 @@
+{
+  "env": {
+    "browser": 1
+  },
+
+  "globals": {
+    "angular": 1
+  },
+
+  "rules": {
+    "quotes": [2, "single"],
+    "eqeqeq": 0,
+    "strict": 0
+  }
+}
